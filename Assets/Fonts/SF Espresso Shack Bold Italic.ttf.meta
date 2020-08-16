@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4da9ad250c0c29a4a85e61fbb821e6f8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Espresso Shack
+  fontNames:
+  - SF Espresso Shack
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b06e6665d1dc3a4e9c2ad69857114fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

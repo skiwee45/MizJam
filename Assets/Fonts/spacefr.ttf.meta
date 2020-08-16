@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5a19574825892a64195b7b8e485e4632
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Frigate
+  fontNames:
+  - Space Frigate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1326d9146f453b46bf95db6de89d394, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

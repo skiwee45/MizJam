@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a8a0cb218b656a4449821f733319c589
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Homizio Nova
+  fontNames:
+  - Homizio Nova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 010e716ba3664a14aa735ab47f7a7ab0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

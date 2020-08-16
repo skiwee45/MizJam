@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5ba81fa48345bfa40a155511df7f0d34
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Speakeasy
+  fontNames:
+  - SF Speakeasy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 171edf409b644474987741fb61f56c7c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
